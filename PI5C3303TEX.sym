@@ -66,3 +66,7 @@ pinnumber=4
 T 1400 100 5 10 0 0 0 0 1
 pinseq=4
 }
+T 495 900 8 10 1 1 0 0 1
+refdes=U111
+T -5 1100 8 10 0 1 0 0 1
+footprint=SOT23-95P-280L1-5N__LTC_S5_Package
